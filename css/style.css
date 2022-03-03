@@ -1,3 +1,8 @@
-.clase1{ color:red }
+.clase1{ color:green }
 
 .clase2{ color: teal}
+
+.p2{
+    text-transform: uppercase;
+    color: midnightblue;
+}
