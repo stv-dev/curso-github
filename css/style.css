@@ -1,8 +1,9 @@
-.clase1{ color:green }
+.clase1{ color:red }
 
 .clase2{ color: teal}
 
-.p2{
-    text-transform: uppercase;
-    color: midnightblue;
+#cabecera{
+    background-color: darkslateblue;
+    color: greenyellow;
+    padding: 20px   ;
 }
