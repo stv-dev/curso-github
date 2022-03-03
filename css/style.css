@@ -1,3 +1,9 @@
 .clase1{ color:red }
 
 .clase2{ color: teal}
+
+#cabecera{
+    background-color: darkslateblue;
+    color: greenyellow;
+    padding: 20px;
+}
